@@ -1,4 +1,7 @@
-### Bem vindo ao meu perfil do Github
+## Bem vindo ao meu perfil do Github
+
+### Quem sou eu?
+  Bem meu nome é Gabriel, gosto bastante de jogos, animes, livros e seríes. Sempre quis ser um programador e depois que comecei a realmente estudar sobre me apaixonei rapidinho ksksk. Programar é criar e solucionar problemas na minha opinião ksksk as vezes demoramos pra resolver mas com estudo e esforço nada é impossivel e esse é um breve resuminho sobre eu.
 
 <div align="center">
   <a href="https://github.com/llredxd">
