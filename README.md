@@ -3,6 +3,8 @@
 ### Quem sou eu?
   Bem meu nome é Gabriel, gosto bastante de jogos, animes, livros e seríes. Sempre quis ser um programador e depois que comecei a realmente estudar sobre me apaixonei rapidinho ksksk. Programar é criar e solucionar problemas na minha opinião ksksk as vezes demoramos pra resolver mas com estudo e esforço nada é impossivel e esse é um breve resuminho sobre eu.
 
+##
+
 <div align="center">
   <a href="https://github.com/llredxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llredxd&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
