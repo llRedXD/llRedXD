@@ -19,6 +19,7 @@
   <img align="center" alt="Red-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Red-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Red-django" height="60" width="70" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor"> 
+  <a href="https://github.com/llredxd">
   <img align="right" alt="Red-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/59977779/156566108-a40df82b-3ce7-4fdd-9d9e-452e73b06cc1.jpg">
  
 </div>
@@ -29,8 +30,9 @@
   <a href = "mailto:gh.o.neira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://github.com/llRedXD"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/9h04ufs1kt7f6rewtms93mfi4?si=ec1abe6af0384f6b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/llredxd/llredxd/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/llredxd">
+  <img align="center" alt="Red-Trophy" src="https://github.com/llredxd/llredxd/blob/output/github-contribution-grid-snake.svg"/>
+  <a href="https://github.com/llredxd">
   <img align="center" alt="Red-Trophy" src="https://github-profile-trophy.vercel.app/?username=llRedXD&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
  
 </div>
