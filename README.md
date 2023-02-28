@@ -5,7 +5,7 @@
 
 ##
 
-<div align="flex">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/llredxd">
   <img height="180em" src="https://github-readme-stats-llredxd.vercel.app/api?username=llredxd&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-llredxd.vercel.app/api/top-langs/?username=llredxd&layout=compact&langs_count=7&theme=codeSTACKr"/>
@@ -33,6 +33,7 @@
   <a href="https://github.com/llredxd">
   <img align="center" alt="Red-Trophy" src="https://github.com/llredxd/llredxd/blob/output/github-contribution-grid-snake.svg"/>
   <a href="https://github.com/llredxd">
+    
   <img align="center" alt="Red-Trophy" src="https://github-profile-trophy.vercel.app/?username=llRedXD&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
  
 </div>
