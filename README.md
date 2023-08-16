@@ -29,8 +29,7 @@
 <div align="center"> 
   <a href = "mailto:gh.o.neira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://github.com/llRedXD"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/9h04ufs1kt7f6rewtms93mfi4?si=ec1abe6af0384f6b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/llredxd">
+  <a href="https://www.linkedin.com/in/gabriel-neira-7051a219b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
   <img align="center" alt="Red-Trophy" src="https://github-profile-trophy.vercel.app/?username=llRedXD&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
  
