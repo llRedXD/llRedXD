@@ -1,14 +1,14 @@
 ## Bem vindo ao meu perfil do Github
 
 ### Quem sou eu?
-  Bem meu nome é Gabriel, gosto bastante de jogos, animes, livros e seríes. Sempre quis ser um programador e depois que comecei a realmente estudar sobre me apaixonei rapidinho, pois gosto de estar sempre ganhando mais conhecimento e nessa aréa sei o quanto é importante então alem de eu gostar ainda me ajuda a melhorar no que eu também gosto de trabalhar. Hoje trabalho como Desenvolvedor Backend Utilizando Python Com Django e GO.
+  Bem meu nome é Gabriel, gosto bastante de jogos, animes, livros e seríes. Sempre quis ser um programador e depois que comecei a realmente estudar sobre me apaixonei rapidinho, pois gosto de estar sempre ganhando mais conhecimento e nessa aréa sei o quanto é importante então alem de eu gostar ainda me ajuda a melhorar no que eu também gosto de trabalhar. Hoje eu atuo na área como Dev FullStack usando principalmente tecnologias como JS, C# e Python.
 
 ##
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/llredxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llRedXD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llRedXD&layout=compact&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-delta-81.vercel.app/api?username=llRedXD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-delta-81.vercel.app/api/top-langs/?username=llRedXD&layout=compact&count_private=true&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   
@@ -34,6 +34,6 @@
   <img align="center" alt="Red-Trophy" src="https://github.com/llredxd/llredxd/blob/output/github-contribution-grid-snake.svg"/>
   <a href="https://github.com/llredxd">
     
-  <img align="center" alt="Red-Trophy" src="https://github-profile-trophy.vercel.app/?username=llRedXD&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+  <img align="center" alt="Red-Trophy" src="https://github-profile-trophy.vercel.app/?username=llRedXD&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
  
 </div>
