@@ -1,7 +1,20 @@
 ## Bem vindo ao meu perfil do Github
 
-### Quem sou eu?
-  Bem meu nome é Gabriel, gosto bastante de jogos, animes, livros e seríes. Sempre quis ser um programador e depois que comecei a realmente estudar sobre me apaixonei rapidinho, pois gosto de estar sempre ganhando mais conhecimento e nessa aréa sei o quanto é importante então alem de eu gostar ainda me ajuda a melhorar no que eu também gosto de trabalhar. Hoje eu atuo na área como Dev FullStack usando principalmente tecnologias como JS, C# e Python.
+```python
+class Gabriel:
+    def __init__(self):
+        self.code = ["Python", "JavaScript", "HTML", "CSS", "Java", "C#", "Golang"]
+        self.frameworks = ["Django", "React", "Bootstrap", ".Net"]
+        self.database = ["MySQL", "PostgreSQL", "Oracle"]
+        self.arquiterura = ["MVC", "REST", "SOAP", "monolithic"]
+        self.ambiente = ["Linux", "Windows", "Docker"]
+        
+    def quem_sou_eu(self):
+        print("Olá, meu nome é Gabriel, sou desenvolvedor com foco em backend, mas também tenho conhecimento em frontend.")
+        print("Para frontend, tenho conhecimento em React, Bootstrap, HTML e CSS.")
+        print("Foquei em Python com Django, mas também tenho conhecimento em outras linguagens e frameworks.")
+        print("Tenho conhecimento em banco de dados, arquitetura de software e ambientes de desenvolvimento.") 
+```
 
 ##
 
@@ -13,24 +26,16 @@
 <div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="Red-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Red-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
+  <img align="center" alt="Red-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Red-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Red-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Red-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Red-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Red-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Red-django" height="60" width="70" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor"> 
-  <a href="https://github.com/llredxd">
-  <img align="right" alt="Red-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/59977779/156566108-a40df82b-3ce7-4fdd-9d9e-452e73b06cc1.jpg">
- 
+  <img align="center" alt="Red-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img align="center" alt="Red-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+
+          
 </div>
   
-  ##
- 
-<div align="center"> 
-  <a href = "mailto:gh.o.neira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href = "https://github.com/llRedXD"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-neira-7051a219b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    
-  <img align="center" alt="Red-Trophy" src="https://github-profile-trophy.vercel.app/?username=llRedXD&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
- 
-</div>
+##
