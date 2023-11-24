@@ -1,4 +1,6 @@
-## Bem vindo ao meu perfil do Github
+<h2>Bem vindo ao meu perfil do Github</h2>
+<img align='right' src="https://i.pinimg.com/originals/63/73/10/637310f73c53fc11be794aa6927f9325.gif" width="230" margin="4">
+
 
 ```python
 class Gabriel:
