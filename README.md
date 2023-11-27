@@ -5,17 +5,21 @@
 ```python
 class Gabriel:
     def __init__(self):
-        self.code = ["Python", "JavaScript", "HTML", "CSS", "Java", "C#", "Golang"]
+        self.code = ["Python", "JavaScript", "HTML", "CSS", "Java",
+        "C#", "Golang"]
         self.frameworks = ["Django", "React", "Bootstrap", ".Net"]
         self.database = ["MySQL", "PostgreSQL", "Oracle"]
         self.arquiterura = ["MVC", "REST", "SOAP", "monolithic"]
         self.ambiente = ["Linux", "Windows", "Docker"]
         
     def quem_sou_eu(self):
-        print("Olá, meu nome é Gabriel, sou desenvolvedor com foco em backend, mas também tenho conhecimento em frontend.")
+        print("""Olá, meu nome é Gabriel, sou desenvolvedor com foco em backend,
+        mas também tenho conhecimento em frontend.""")
         print("Para frontend, tenho conhecimento em React, Bootstrap, HTML e CSS.")
-        print("Foquei em Python com Django, mas também tenho conhecimento em outras linguagens e frameworks.")
-        print("Tenho conhecimento em banco de dados, arquitetura de software e ambientes de desenvolvimento.") 
+        print("""Foquei em Python com Django, mas também tenho conhecimento em
+        outras linguagens e frameworks.""")
+        print("""Tenho conhecimento em banco de dados, arquitetura de
+        software e ambientes de desenvolvimento.""") 
 ```
 
 ##
