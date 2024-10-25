@@ -24,11 +24,7 @@ class Gabriel:
 
 ##
 
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/llredxd">
-  <img height="180em" src="https://github-readme-stats-eight-delta-81.vercel.app/api?username=llRedXD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-delta-81.vercel.app/api/top-langs/?username=llRedXD&layout=compact&count_private=true&theme=dark"/>
-</div>
+
 <div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="Red-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
